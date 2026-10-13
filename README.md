@@ -1,4 +1,9 @@
-## Hi there 👋
+# Olá, me chamo Conrado 
+## Bem vindo ao meu perfil do GITHub
+Estudante do Ensino Médio 
+cursando ensino tecnico de inteligencia artificial
+Dedico meu tempo para programação
+
 
 <!--
 **pumatoxico-png/pumatoxico-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
