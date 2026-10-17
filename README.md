@@ -1,66 +1,45 @@
 <div align="center">
 
-# SOL NEGRO
+  <h1>◉</h1>
 
-### Building knowledge. Developing solutions.
+  <h2>Software Development</h2>
 
-`Python` • `Artificial Intelligence` • `Software Development`
+  <p>
+    Artificial Intelligence • Python • Computer Science
+  </p>
 
----
+  <p>
+    <i>Building knowledge. Engineering the future.</i>
+  </p>
 
 </div>
 
+---
+
 ## About Me
 
-I'm a Brazilian student currently pursuing a technical
+I'm a Brazilian student pursuing a technical
 education in Artificial Intelligence at SENAI.
 
-My interests include software development, artificial
-intelligence, computer science and cybersecurity.
-
-I believe that consistency, curiosity and practical
-experience are essential for long-term growth.
-
-## Education
-
-- High School — SESI
-- Artificial Intelligence Technician — SENAI
-- CS50's Introduction to Programming with Python — Learning
+Currently studying Python, programming logic
+and software development fundamentals.
 
 ## Currently Learning
 
-- Python programming
-- Programming logic
-- Problem-solving
-- Software development fundamentals
+- Python
+- CS50P
+- Programming Logic
+- Problem Solving
 
 ## Projects
 
-This section documents my progress as I develop
-practical programming projects.
-
-### Banking Simulation
-
-A Python project focused on conditional statements,
-user input and basic financial operations.
-
-### Academic Projects
-
-Programming exercises and experiments developed
-throughout my technical education.
-
-## Long-Term Goals
-
-- Study Computer Science
-- Develop advanced programming skills
-- Explore Artificial Intelligence
-- Learn cybersecurity fundamentals
-- Build useful and reliable software
+Building my first programming projects
+and documenting my learning journey.
 
 ---
 
 <div align="center">
 
-**Discipline creates consistency. Consistency builds progress.**
+<i>Discipline creates consistency.</i>
 
 </div>
