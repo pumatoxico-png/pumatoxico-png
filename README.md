@@ -1,6 +1,6 @@
-<img src="./file_00000000e42c820e8ec9db854664decc.png"
-     width="180"
-     alt="Sol Negro">
+<p align="center">
+  <img src="./file_00000000e42c820e8ec9db854664decc.png" width="180" alt="Sol Negro">
+</p>
 
 <h1>Software Development</h1>
 
