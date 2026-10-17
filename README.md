@@ -1,8 +1,8 @@
-<div align="center">
+<img src="./file_00000000e42c820e8ec9db854664decc.png"
+     width="180"
+     alt="Sol Negro">
 
-  <h1>◉</h1>
-
-  <h2>Software Development</h2>
+<h1>Software Development</h1>
 
   <p>
     Artificial Intelligence • Python • Computer Science
