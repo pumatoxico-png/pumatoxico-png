@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">  <h1>Software Development</h1>  <p>
-    Artificial Intelligence • Python • 
+    Artificial Intelligence • Python
   </p>  <p>
     <i>Building knowledge. Engineering the future.</i>
   </p></div>
